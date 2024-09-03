@@ -12,6 +12,10 @@ This repository is created to aware the community about the fake open-source pro
     - [List of Open Source Projects](#list-of-open-source-projects)
     - [Fake* Open Source Licenses](#licenses)
     - [Open Source Licenses](#licenses)
+    - [Contributing](#contributing)
+        - [Code of Conduct](#code-of-conduct)
+        - [Contributing Guidelines](#contributing-guidelines)
+    - [License](#license)
 
 
 ## 10 Criteria for Open Source Software by OSI
