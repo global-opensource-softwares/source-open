@@ -77,7 +77,7 @@ Or just that guy in the class who just takes others work maybe add some jargon a
 
 ## License
 
- [GNU General Public License v3.0](#license)
+ [GNU General Public License v3.0](/LICENSE)
  The trademarks and logos of the software are owned by the respective owners. The use of the software and its logo is governed by the respective licenses.
 
 
